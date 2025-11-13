@@ -26,7 +26,7 @@ information will be useful to others.
 A few things to be aware of:
 
 1. As of this writing, I have not procured a new phone number yet as I do not
-   plan to get a new number until 2025.
+   plan to get a new number until the end of December 2025.
 2. While I've created a couple of new GMail accounts, they are not considered
    "active" yet.  This will happen once I get a new phone number.
 3. Do not expect much content here until after I get a new cell phone number
