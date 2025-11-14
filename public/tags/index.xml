@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Big Switch</title>
-    <link>http://localhost:1313/~cfuhrman/the-big-switch/tags/</link>
+    <link>https://www.panix.com/~cfuhrman/the-big-switch/tags/</link>
     <description>Recent content in Tags on The Big Switch</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Nov 2025 14:27:12 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/~cfuhrman/the-big-switch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.panix.com/~cfuhrman/the-big-switch/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email</title>
-      <link>http://localhost:1313/~cfuhrman/the-big-switch/tags/email/</link>
+      <link>https://www.panix.com/~cfuhrman/the-big-switch/tags/email/</link>
       <pubDate>Tue, 11 Nov 2025 14:27:12 -0800</pubDate>
-      <guid>http://localhost:1313/~cfuhrman/the-big-switch/tags/email/</guid>
+      <guid>https://www.panix.com/~cfuhrman/the-big-switch/tags/email/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/~cfuhrman/the-big-switch/tags/introduction/</link>
+      <link>https://www.panix.com/~cfuhrman/the-big-switch/tags/introduction/</link>
       <pubDate>Tue, 11 Nov 2025 14:27:12 -0800</pubDate>
-      <guid>http://localhost:1313/~cfuhrman/the-big-switch/tags/introduction/</guid>
+      <guid>https://www.panix.com/~cfuhrman/the-big-switch/tags/introduction/</guid>
       <description></description>
     </item>
     <item>
       <title>Phone</title>
-      <link>http://localhost:1313/~cfuhrman/the-big-switch/tags/phone/</link>
+      <link>https://www.panix.com/~cfuhrman/the-big-switch/tags/phone/</link>
       <pubDate>Tue, 11 Nov 2025 14:27:12 -0800</pubDate>
-      <guid>http://localhost:1313/~cfuhrman/the-big-switch/tags/phone/</guid>
+      <guid>https://www.panix.com/~cfuhrman/the-big-switch/tags/phone/</guid>
       <description></description>
     </item>
   </channel>

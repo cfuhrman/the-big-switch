@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Big Switch</title>
-    <link>http://localhost:1313/~cfuhrman/the-big-switch/posts/</link>
+    <link>https://www.panix.com/~cfuhrman/the-big-switch/posts/</link>
     <description>Recent content in Posts on The Big Switch</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Nov 2025 14:27:12 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/~cfuhrman/the-big-switch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.panix.com/~cfuhrman/the-big-switch/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/~cfuhrman/the-big-switch/posts/introduction/</link>
+      <link>https://www.panix.com/~cfuhrman/the-big-switch/posts/introduction/</link>
       <pubDate>Tue, 11 Nov 2025 14:27:12 -0800</pubDate>
-      <guid>http://localhost:1313/~cfuhrman/the-big-switch/posts/introduction/</guid>
+      <guid>https://www.panix.com/~cfuhrman/the-big-switch/posts/introduction/</guid>
       <description>Introduction Hullo! I&amp;rsquo;m Chris, a software engineer making his living in the scenic Pacific Northwest. Recently, I made the decision to change both my phone number as well as to abandon the GMail account I&amp;rsquo;ve had for over 20 years and replace it with one that isn&amp;rsquo;t plastered all over the dark web. Since this is a big undertaking, I&amp;rsquo;ve created this blog to document how I went about changing everything as well as any pitfalls I&amp;rsquo;ve run into in the hopes that this information will be useful to others.</description>
     </item>
   </channel>
