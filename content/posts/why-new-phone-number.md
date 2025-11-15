@@ -5,8 +5,8 @@ date = "2025-11-15T11:36:33-08:00"
 author = "Christopher M. Fuhrman"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["phone", ""]
-keywords = ["phone", ""]
+tags = ["phone", "carriers"]
+keywords = ["phone", "carrier"]
 description = "Why a new phone number?"
 showFullContent = false
 readingTime = false
@@ -17,10 +17,11 @@ hideComments = false
 
 I last changed my mobile phone number in Spring of 2008 when I moved to San
 Francisco, CA, so I've had my 415-based number for close to 20 years now.  In
-March of 2019, I moved to Portland, Oregon.  At the time, I gave brief thought
+March of 2019, I moved to Portland, Oregon.  At the time, I gave a brief thought
 to getting a number with a Portland area code, but decided against it due to the
-complexity of having to change my number area.  Yeah, I could have my old number
-forwarded, but it would still take a lot of planning.
+complexity of having to change my number with everyone I keep in contact with.
+Yeah, I could have my old number forwarded, but it would still take a lot of
+planning.
 
 Fast forward to a couple of years ago.  I had just gotten a new job and found
 that the cellular provider I used at the time, which used T-Mobile's network,
@@ -77,12 +78,25 @@ There are some cons to this:
    [971](https://en.wikipedia.org/wiki/Area_codes_503_and_971) created in Summer
    of 1999.  While I'd like a 503-area code, I will probably be assigned one in
    971-land.
-   
- I also have a third option.  Since the Samsung Galaxy S23 Ultra supports dual
- physical SIMs, I could simply get a 2^nd^ physical SIM card and use that.
- Besides, I only owe about $350 or so on the phone at the time of this writing.
- I'll be thinking about that.  That's going to be the topic of another post.
+
+*UPDATE*
+
+Writing this blog post, I realized I had another, much cheaper, option.  There's
+a virtual carrier called [USMobile](https://www.usmobile.com/) that allows you
+to use multiple networks on the same device.  You just need a phone that
+supports either two physical SIMs and/or an eSIM.  My Samsung S23 Ultra supports
+this.  You then sign up for a plan on US Mobile and select their Multi-Network
+Add-on to get a 2nd carrier.
+
+This has the following benefits:
+
+ * I don't have to pay for a new phone.
+ * I can immediately switch to US Mobile, thus saving the expense of having
+   to pay for two carriers for the next year.
+ * I'm spending *way* less per month.
  
- Next up, why do I want to get rid of my GMail account?
+This is the option I have decided to go with.
+
+Next up, why do I want to get rid of my GMail account?
  
 
