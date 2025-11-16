@@ -2,7 +2,7 @@
 title = "Why A New Phone Number?"
 date = "2025-11-15T11:36:33-08:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = "Christopher M. Fuhrman"
+author = "Chris"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["phone", "carriers"]

@@ -2,7 +2,7 @@
 title = "Introduction"
 date = "2025-11-11T14:27:12-08:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = "Christopher M. Fuhrman"
+author = "Chris"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["introduction", "phone", "email"]
