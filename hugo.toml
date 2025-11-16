@@ -3,7 +3,7 @@
 # title = 'My New Hugo Site'
 # theme = 'terminal'
 
-baseurl = "https://www.panix.com/~cfuhrman/the-big-switch/"
+baseurl = "https://cfuhrman.github.io/the-big-switch/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -102,7 +102,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "The Big Switch"
-        logoHomeLink = "/"
+        logoHomeLink = "/the-big-switch/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
