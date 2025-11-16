@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Big Switch</title>
-    <link>https://www.panix.com/~cfuhrman/the-big-switch/posts/</link>
+    <link>http://localhost:1313/~cfuhrman/the-big-switch/posts/</link>
     <description>Recent content in Posts on The Big Switch</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Nov 2025 11:36:33 -0800</lastBuildDate>
-    <atom:link href="https://www.panix.com/~cfuhrman/the-big-switch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 09:55:09 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/~cfuhrman/the-big-switch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why A New Google Account?</title>
+      <link>http://localhost:1313/~cfuhrman/the-big-switch/posts/why-new-google-account/</link>
+      <pubDate>Sun, 16 Nov 2025 09:55:09 -0800</pubDate>
+      <guid>http://localhost:1313/~cfuhrman/the-big-switch/posts/why-new-google-account/</guid>
+      <description>Why retire my existing Google Account? I&amp;rsquo;ve had my existing Google account since July of 2004 when I managed to snag an account on the then-beta GMail service and I&amp;rsquo;ve used it primarily for corporate interactions, such as login info to a retail web site, communication with my bank, airline reservations and so on and so on. For friends and family, I have a separate provider, FastMail.&#xA;As Google expanded their services offerings, I&amp;rsquo;ve been making use of them as I see fit:</description>
+    </item>
     <item>
       <title>Why A New Phone Number?</title>
-      <link>https://www.panix.com/~cfuhrman/the-big-switch/posts/why-new-phone-number/</link>
+      <link>http://localhost:1313/~cfuhrman/the-big-switch/posts/why-new-phone-number/</link>
       <pubDate>Sat, 15 Nov 2025 11:36:33 -0800</pubDate>
-      <guid>https://www.panix.com/~cfuhrman/the-big-switch/posts/why-new-phone-number/</guid>
+      <guid>http://localhost:1313/~cfuhrman/the-big-switch/posts/why-new-phone-number/</guid>
       <description>Why a new phone number? I last changed my mobile phone number in Spring of 2008 when I moved to San Francisco, CA, so I&amp;rsquo;ve had my 415-based number for close to 20 years now. In March of 2019, I moved to Portland, Oregon. At the time, I gave a brief thought to getting a number with a Portland area code, but decided against it due to the complexity of having to change my number with everyone I keep in contact with.</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>https://www.panix.com/~cfuhrman/the-big-switch/posts/introduction/</link>
+      <link>http://localhost:1313/~cfuhrman/the-big-switch/posts/introduction/</link>
       <pubDate>Tue, 11 Nov 2025 14:27:12 -0800</pubDate>
-      <guid>https://www.panix.com/~cfuhrman/the-big-switch/posts/introduction/</guid>
+      <guid>http://localhost:1313/~cfuhrman/the-big-switch/posts/introduction/</guid>
       <description>Introduction Hullo! I&amp;rsquo;m Chris, a software engineer making his living in the scenic Pacific Northwest. Recently, I made the decision to change both my phone number as well as to abandon the GMail account I&amp;rsquo;ve had for over 20 years and replace it with one that isn&amp;rsquo;t plastered all over the dark web. Since this is a big undertaking, I&amp;rsquo;ve created this blog to document how I went about changing everything as well as any pitfalls I&amp;rsquo;ve run into in the hopes that this information will be useful to others.</description>
     </item>
   </channel>
