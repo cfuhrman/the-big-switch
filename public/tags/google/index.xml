@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on The Big Switch</title>
+    <link>http://localhost:1313/~cfuhrman/the-big-switch/tags/google/</link>
+    <description>Recent content in Google on The Big Switch</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Nov 2025 09:55:09 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/~cfuhrman/the-big-switch/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why A New Google Account?</title>
+      <link>http://localhost:1313/~cfuhrman/the-big-switch/posts/why-new-google-account/</link>
+      <pubDate>Sun, 16 Nov 2025 09:55:09 -0800</pubDate>
+      <guid>http://localhost:1313/~cfuhrman/the-big-switch/posts/why-new-google-account/</guid>
+      <description>Why retire my existing Google Account? I&amp;rsquo;ve had my existing Google account since July of 2004 when I managed to snag an account on the then-beta GMail service and I&amp;rsquo;ve used it primarily for corporate interactions, such as login info to a retail web site, communication with my bank, airline reservations and so on and so on. For friends and family, I have a separate provider, FastMail.&#xA;As Google expanded their services offerings, I&amp;rsquo;ve been making use of them as I see fit:</description>
+    </item>
+  </channel>
+</rss>
