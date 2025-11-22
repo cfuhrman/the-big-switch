@@ -6,13 +6,34 @@
     <description>Recent content in Tags on The Big Switch</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Nov 2025 09:55:09 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 10:17:08 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/the-big-switch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duck</title>
+      <link>http://localhost:1313/the-big-switch/tags/duck/</link>
+      <pubDate>Sat, 22 Nov 2025 10:17:08 -0800</pubDate>
+      <guid>http://localhost:1313/the-big-switch/tags/duck/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Email</title>
       <link>http://localhost:1313/the-big-switch/tags/email/</link>
-      <pubDate>Sun, 16 Nov 2025 09:55:09 -0800</pubDate>
+      <pubDate>Sat, 22 Nov 2025 10:17:08 -0800</pubDate>
       <guid>http://localhost:1313/the-big-switch/tags/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FastMail</title>
+      <link>http://localhost:1313/the-big-switch/tags/fastmail/</link>
+      <pubDate>Sat, 22 Nov 2025 10:17:08 -0800</pubDate>
+      <guid>http://localhost:1313/the-big-switch/tags/fastmail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GMail</title>
+      <link>http://localhost:1313/the-big-switch/tags/gmail/</link>
+      <pubDate>Sat, 22 Nov 2025 10:17:08 -0800</pubDate>
+      <guid>http://localhost:1313/the-big-switch/tags/gmail/</guid>
       <description></description>
     </item>
     <item>

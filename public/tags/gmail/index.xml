@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GMail on The Big Switch</title>
+    <link>http://localhost:1313/the-big-switch/tags/gmail/</link>
+    <description>Recent content in GMail on The Big Switch</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Nov 2025 10:17:08 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/the-big-switch/tags/gmail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email Organization</title>
+      <link>http://localhost:1313/the-big-switch/posts/email-organization/</link>
+      <pubDate>Sat, 22 Nov 2025 10:17:08 -0800</pubDate>
+      <guid>http://localhost:1313/the-big-switch/posts/email-organization/</guid>
+      <description>Email Organization Currently, I have my main GMail account and another one on FastMail, which I use for friends-n-family email. As I&amp;rsquo;ve said, my current GMail account has become an unmanageable spam magnet. So, how to set things up such that my email becomes manageable again?&#xA;Requirements Here&amp;rsquo;s what I&amp;rsquo;d like to have:&#xA;Personal account for friends and family Corporate/professional account for businesses and such An account specific for Google Services such as Photos, Drive, etc.</description>
+    </item>
+  </channel>
+</rss>

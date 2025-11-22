@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/the-big-switch/tags/duck/</loc>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/the-big-switch/tags/email/</loc>
-    <lastmod>2025-11-16T09:55:09-08:00</lastmod>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/posts/email-organization/</loc>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/tags/fastmail/</loc>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/tags/gmail/</loc>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/posts/</loc>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/tags/</loc>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/</loc>
+    <lastmod>2025-11-22T10:17:08-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/the-big-switch/tags/google/</loc>
     <lastmod>2025-11-16T09:55:09-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/the-big-switch/posts/</loc>
-    <lastmod>2025-11-16T09:55:09-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/the-big-switch/tags/spam/</loc>
-    <lastmod>2025-11-16T09:55:09-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/the-big-switch/tags/</loc>
-    <lastmod>2025-11-16T09:55:09-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/the-big-switch/</loc>
     <lastmod>2025-11-16T09:55:09-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/the-big-switch/posts/why-new-google-account/</loc>
