@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>US Mobile on The Big Switch</title>
+    <link>http://localhost:1313/the-big-switch/tags/us-mobile/</link>
+    <description>Recent content in US Mobile on The Big Switch</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Nov 2025 07:56:41 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/the-big-switch/tags/us-mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switching to Us Mobile</title>
+      <link>http://localhost:1313/the-big-switch/posts/switching-to-us-mobile/</link>
+      <pubDate>Fri, 28 Nov 2025 07:56:41 -0800</pubDate>
+      <guid>http://localhost:1313/the-big-switch/posts/switching-to-us-mobile/</guid>
+      <description>Transferring Service On the weekend of November 22nd, I started the process of switching my cell phone service over to US Mobile. As I had paid off my phone with my previous provider, there was nothing left holding me to them. To make the switch, I created an account on their web site and was able to sign up there. I found the process relatively painless and found their Getting Started documentation helpful.</description>
+    </item>
+  </channel>
+</rss>

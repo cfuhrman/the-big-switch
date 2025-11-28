@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/the-big-switch/tags/cell/</loc>
+    <lastmod>2025-11-28T07:56:41-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/posts/</loc>
+    <lastmod>2025-11-28T07:56:41-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/posts/switching-to-us-mobile/</loc>
+    <lastmod>2025-11-28T07:56:41-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/tags/</loc>
+    <lastmod>2025-11-28T07:56:41-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/</loc>
+    <lastmod>2025-11-28T07:56:41-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-big-switch/tags/us-mobile/</loc>
+    <lastmod>2025-11-28T07:56:41-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/the-big-switch/posts/backing-up-google/</loc>
     <lastmod>2025-11-26T13:22:05-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/the-big-switch/tags/google/</loc>
-    <lastmod>2025-11-26T13:22:05-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/the-big-switch/posts/</loc>
-    <lastmod>2025-11-26T13:22:05-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/the-big-switch/tags/</loc>
-    <lastmod>2025-11-26T13:22:05-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/the-big-switch/</loc>
     <lastmod>2025-11-26T13:22:05-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/the-big-switch/tags/duck/</loc>

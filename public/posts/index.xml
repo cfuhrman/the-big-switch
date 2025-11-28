@@ -6,14 +6,21 @@
     <description>Recent content in Posts on The Big Switch</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Nov 2025 13:22:05 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 07:56:41 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/the-big-switch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switching to Us Mobile</title>
+      <link>http://localhost:1313/the-big-switch/posts/switching-to-us-mobile/</link>
+      <pubDate>Fri, 28 Nov 2025 07:56:41 -0800</pubDate>
+      <guid>http://localhost:1313/the-big-switch/posts/switching-to-us-mobile/</guid>
+      <description>Transferring Service On the weekend of November 22nd, I started the process of switching my cell phone service over to US Mobile. As I had paid off my phone with my previous provider, there was nothing left holding me to them. To make the switch, I created an account on their web site and was able to sign up there. I found the process relatively painless and found their Getting Started documentation helpful.</description>
+    </item>
     <item>
       <title>Backing Up Google for Transfer</title>
       <link>http://localhost:1313/the-big-switch/posts/backing-up-google/</link>
       <pubDate>Wed, 26 Nov 2025 13:22:05 -0800</pubDate>
       <guid>http://localhost:1313/the-big-switch/posts/backing-up-google/</guid>
-      <description>Backing up Google I use a lot of Google Services. Drive, Photos, Youtube, Messages and Home. They are pretty ubiquitous nowadays. It&amp;rsquo;s also a lot of information to move over to a new account.&#xA;Having created my account for google services, I started the arduous task of backing up my data so it doesn&amp;rsquo;t get lost. For nearly everything, there&amp;rsquo;s Google Takeout, which lets you make a backup of some or all of your Google Account data, with some caveats.</description>
+      <description>Backing up Google I use a lot of Google Services: Drive, Photos, Youtube, Messages, Home, etc. They are pretty ubiquitous nowadays. It&amp;rsquo;s also a lot of information to move over to a new account.&#xA;Having created my account for google services, I started the arduous task of backing up my data so it doesn&amp;rsquo;t get lost. For nearly everything, there&amp;rsquo;s Google Takeout, which lets you make a backup of some or all of your Google Account data, with some caveats.</description>
     </item>
     <item>
       <title>Email Organization</title>
